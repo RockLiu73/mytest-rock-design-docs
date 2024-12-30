@@ -138,3 +138,5 @@ erDiagram
 6. ArticleFile ||--o{ ArticleFileLog : Has
 關係類型：一對多（1:N）
 解釋：一個文章檔案（ArticleFile）可以有零個或多個（o{）文章檔案日誌（ArticleFileLog）。
+
+# 文章分類管理-查詢頁面
